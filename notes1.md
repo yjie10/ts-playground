@@ -1,4 +1,4 @@
-What is TypeScript?
+## What is TypeScript?
 
 - A JavaScript Superset
 - A Language building up on JS
@@ -7,7 +7,7 @@ What is TypeScript?
 - It's a complier which will be complied to JS
 - Adds "Types" to JS
 
-Why TypeScript?
+## Why TypeScript?
 
 `JavaScript`
 
@@ -21,3 +21,20 @@ console.log(add('2', '3')) // => 23
 
 The above might result in unwanted behavior at Runtime;
 Type is a "Tool" that helps developers write better code
+
+···
+
+## Course Outline
+
+- TypeScript Basics
+- Compiler & Configuration Deep Dive
+- Working with Next-gen JS Code
+- Classes & Interfaces
+- Advanced Types & TS Features
+- Generics
+- Decorators
+- Project
+- Working with Namespaces & Modules
+- Webpack & TS
+- Third-Party Libraries & TS
+- React + TS & NodeJS + TS
