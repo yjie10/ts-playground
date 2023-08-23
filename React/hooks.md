@@ -44,3 +44,8 @@ Reason Set 3
   - second element is a state setter function
 - If new state value depends on the previous state value, you can pass a function to the setter function; the setter function will receive the previous state as its argument
 - When dealing with objects or arrays, always make sure to spread the state variable and then call the setter function
+
+## useEffect
+
+- The **Effect** hook lets you perform _side effects_ in _functional_ components
+- It is a close replacement for componentDidMount, componentDidUpdate, and componentWillUnmount
