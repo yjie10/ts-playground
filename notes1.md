@@ -5,7 +5,7 @@
 - Adds new Features + Advantages to JS
 - Browser CAN'T excute it!
 - It's a complier which will be complied to JS
-- Adds "Types" to JS
+- **Adds "Types" to JS**
 
 ## Why TypeScript?
 
@@ -24,7 +24,7 @@ Type is a "Tool" that helps developers write better code
 
 ···
 
-## Course Outline
+<!-- ## Course Outline
 
 - TypeScript Basics
 - Compiler & Configuration Deep Dive
@@ -37,4 +37,4 @@ Type is a "Tool" that helps developers write better code
 - Working with Namespaces & Modules
 - Webpack & TS
 - Third-Party Libraries & TS
-- React + TS & NodeJS + TS
+- React + TS & NodeJS + TS -->

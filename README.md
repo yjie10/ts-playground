@@ -1,2 +1,7 @@
 # ts-playground
-Learning TypeScript. 
+
+Learning TypeScript.
+
+# TS-Playground
+
+https://www.typescriptlang.org/play?#code/Q
